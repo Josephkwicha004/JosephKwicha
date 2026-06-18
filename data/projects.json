@@ -1,0 +1,30 @@
+[
+    {
+        "type": "image",
+        "file": "assets/images/projects/p5.jpg"
+    },
+    {
+        "type": "image",
+        "file": "assets/images/projects/p2.jpg"
+    },
+
+    {
+        "type": "image",
+        "file": "assets/images/projects/p3.jpg"
+    },
+
+    {
+        "type": "video",
+        "file": "assets/videos/pp.mp4"
+    },
+
+    {
+        "type": "image",
+        "file": "assets/images/projects/p1.jpg"
+    },
+
+    {
+        "type": "video",
+        "file": "assets/videos/ppp.mp4"
+    }
+]
