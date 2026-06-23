@@ -15,7 +15,7 @@
 
     {
         "type": "video",
-        "file": "assets/videos/pp.mp4"
+        "file": "assets/videos/v2.mp4"
     },
 
     {
@@ -25,6 +25,6 @@
 
     {
         "type": "video",
-        "file": "assets/videos/ppp.mp4"
+        "file": "assets/videos/v1.mp4"
     }
 ]
